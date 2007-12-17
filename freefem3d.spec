@@ -6,7 +6,6 @@ License:       GPL
 Group:         Sciences/Mathematics
 Url:           http://www.freefem.org/ff3d/index.html
 Source:        %{name}-%{version}pre9+cvs.tar.gz
-BuildRoot:     %{_tmppath}/%{name}-buildroot
 
 BuildRequires: bison
 BuildRequires: tetex-latex
