@@ -1,7 +1,7 @@
 Name:          freefem3d
 Version:       1.0
 Release:       %mkrel 0.pre9.2
-Summary:       FreeFEM3D is a 3D version of freeFEM
+Summary:       3D version of freeFEM
 License:       GPL
 Group:         Sciences/Mathematics
 Url:           http://www.freefem.org/ff3d/index.html
