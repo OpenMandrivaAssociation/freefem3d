@@ -4,7 +4,7 @@ Release:       %mkrel 0.pre9.3
 Summary:       3D version of freeFEM
 License:       GPL
 Group:         Sciences/Mathematics
-Url:           http://www.freefem.org/ff3d/index.html
+Url:           https://www.freefem.org/ff3d/index.html
 Source:        %{name}-%{version}pre9+cvs.tar.gz
 BuildRoot:     %{_tmppath}/%{name}-buildroot
 
