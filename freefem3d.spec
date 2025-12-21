@@ -8,6 +8,11 @@ Url:           https://www.freefem.org/ff3d/index.html
 Source:        %{name}-%{version}pre9+cvs.tar.gz
 BuildRoot:     %{_tmppath}/%{name}-buildroot
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: bison
 BuildRequires: tetex-latex
 # (nl) Readd those buildrequires when vtk will be builded against Qt4
